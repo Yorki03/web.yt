@@ -5,6 +5,9 @@ import { HomeComponent } from './home/home.component';
 import { ServiciosComponent } from './servicios/servicios.component';
 import { ConctatoComponent } from './conctato/conctato.component';
 import { PortafolioComponent } from './portafolio/portafolio.component';
+import { PreciosComponent } from './precios/precios.component';
+import { ProductosComponent } from './productos/productos.component';
+import { NosotrosComponent } from './nosotros/nosotros.component';
 
 const routes: Routes = [
   {
@@ -22,6 +25,18 @@ const routes: Routes = [
   {
     path: 'portafolio',
     component: PortafolioComponent
+  },
+  {
+    path: 'precios',
+    component: PreciosComponent
+  },
+  {
+    path: 'productos',
+    component: ProductosComponent
+  },
+  {
+    path: 'nosotros',
+    component: NosotrosComponent
   }
 ];
 
