@@ -1,0 +1,211 @@
+@media (min-width: 40em) {
+    
+    .featurette-heading {
+      font-size: 50px;
+    }
+}
+  
+@media (min-width: 62em) {
+    .featurette-heading {
+      margin-top: 7rem;
+    }
+}  
+.colores{
+    background-color: rgb(20, 33, 61);
+}
+/*etiqueta p*/   
+.et_pb_contact_form {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+div.et_pb_contact_field {
+    padding: 0 0 0 3%;
+    margin-bottom: 3%;
+    background-position: 50%;
+    background-size: cover;
+}
+/*etiqueta label*/
+.et_pb_contact_form_label {
+    display: none;
+}
+
+/*etiqueta imput*/
+@media only screen and (max-width: 767px){
+    .et_pb_contact_form_1.et_pb_contact_form_container 
+    .input, .et_pb_contact_form_1.et_pb_contact_form_container 
+    .input[type="checkbox"]+label i, .et_pb_contact_form_1
+    .et_pb_contact_form_container .input[type="radio"]+label i {
+    
+        border-bottom-width: 3px;
+    }
+}
+
+@media only screen and (max-width: 980px){
+    .et_pb_contact_form_1.et_pb_contact_form_container 
+    .input, .et_pb_contact_form_1.et_pb_contact_form_container 
+    .input[type="checkbox"]+label i, .et_pb_contact_form_1
+    .et_pb_contact_form_container .input[type="radio"]+label i {
+        border-bottom-width: 3px;
+    }
+}
+
+.et_pb_contact_form_1.et_pb_contact_form_container .input,.et_pb_contact_form_1.et_pb_contact_form_container .input[type="checkbox"]+label i, .et_pb_contact_form_1.et_pb_contact_form_container .input[type="radio"]+label i {
+    border-radius: 4px 4px 4px 4px;
+    overflow: hidden;
+    border-color: #bec2d8;
+    border-bottom-width: 3px;
+}
+
+.et_pb_contact_form_1.et_pb_contact_form_container .input, .et_pb_contact_form_1.et_pb_contact_form_container .input::placeholder, .et_pb_contact_form_1.et_pb_contact_form_container .input[type=checkbox]+label, .et_pb_contact_form_1.et_pb_contact_form_container .input[type=radio]+label {
+    font-size: 16px;
+    line-height: 1.8em;
+}
+
+
+.et_pb_contact_form_1.et_pb_contact_form_container .input, .et_pb_contact_form_1.et_pb_contact_form_container .input[type="checkbox"]+label i, .et_pb_contact_form_1.et_pb_contact_form_container .input[type="radio"]+label i {
+    border-radius: 4px 4px 4px 4px;
+    overflow: hidden;
+    border-color: #bec2d8;
+    border-bottom-width: 3px;
+}
+.et_pb_contact_form_1.et_pb_contact_form_container .input, .et_pb_contact_form_1.et_pb_contact_form_container .input::placeholder, .et_pb_contact_form_1.et_pb_contact_form_container .input[type=checkbox]+label, .et_pb_contact_form_1.et_pb_contact_form_container .input[type=radio]+label {
+    font-size: 16px;
+    line-height: 1.8em;
+}
+.et_pb_with_border .et_pb_contact_form .input[type=checkbox]+label i, .et_pb_with_border .et_pb_contact_form .input[type=radio]+label i, .et_pb_with_border .et_pb_contact_form input, .et_pb_with_border .et_pb_contact_form select, .et_pb_with_border .et_pb_contact_form textarea {
+    border: 0 solid #333;
+}
+
+.et_pb_contact_form_1 .input, .et_pb_contact_form_1 .input[type="checkbox"]+label i, .et_pb_contact_form_1 .input[type="radio"]+label i {
+    background-color: rgba(110,130,208,0.04);
+}
+
+.et_pb_contact p input, .et_pb_contact p textarea {
+    -webkit-appearance: none;
+    background-color: #eee;
+    width: 100%;
+    border-width: 0;
+    border-radius: 0;
+    color: #999;
+    font-size: 14px;
+    padding: 16px;
+}
+
+
+
+@media only screen and (max-width: 767px){
+    .et_pb_contact_form_1.et_pb_contact_form_container 
+    .input, .et_pb_contact_form_1.et_pb_contact_form_container 
+    .input[type="checkbox"]+label i, .et_pb_contact_form_1.et_pb_contact_form_container 
+    .input[type="radio"]+label i {
+        border-bottom-width: 3px;
+    }
+}
+@media only screen and (max-width: 980px){
+    .et_pb_contact_form_1.et_pb_contact_form_container 
+    .input, .et_pb_contact_form_1.et_pb_contact_form_container 
+    .input[type="checkbox"]+label i, .et_pb_contact_form_1.et_pb_contact_form_container 
+    .input[type="radio"]+label i {
+    border-bottom-width: 3px;}
+}
+.et_pb_contact_form_1.et_pb_contact_form_container .input, .et_pb_contact_form_1.et_pb_contact_form_container .input[type="checkbox"]+label i, .et_pb_contact_form_1.et_pb_contact_form_container .input[type="radio"]+label i {
+    border-radius: 4px 4px 4px 4px;
+    overflow: hidden;
+    border-color: #bec2d8;
+    border-bottom-width: 3px;
+}
+.et_pb_contact_form_1.et_pb_contact_form_container .input, .et_pb_contact_form_1.et_pb_contact_form_container .input::placeholder, .et_pb_contact_form_1.et_pb_contact_form_container .input[type=checkbox]+label, .et_pb_contact_form_1.et_pb_contact_form_container .input[type=radio]+label {
+    font-size: 16px;
+    line-height: 1.8em;
+}
+.et_pb_with_border .et_pb_contact_form .input[type=checkbox]+label i, .et_pb_with_border .et_pb_contact_form .input[type=radio]+label i, .et_pb_with_border .et_pb_contact_form input, .et_pb_with_border .et_pb_contact_form select, .et_pb_with_border .et_pb_contact_form textarea {
+    border: 0 solid #333;
+}
+.et_pb_contact_form_1 .input, .et_pb_contact_form_1 .input[type="checkbox"]+label i, .et_pb_contact_form_1 .input[type="radio"]+label i {
+    background-color: rgba(110,130,208,0.04);
+}
+.et_pb_contact p input, .et_pb_contact p textarea {
+    -webkit-appearance: none;
+    background-color: #eee;
+    width: 100%;
+    border-width: 0;
+    border-radius: 0;
+    color: #999;
+    font-size: 14px;
+    padding: 16px;
+}
+input.text, input.title, input[type=text], select, textarea {
+    margin: 0;
+}
+
+input.text, input.title, input[type=email], input[type=password], input[type=tel], input[type=text], select, textarea {
+    background-color: #fff;
+    border: 1px solid #bbb;
+    padding: 2px;
+    color: #4e4e4e;
+}
+
+.et_pb_contact_field *, .et_pb_contact_field.et_pb_section_parallax, .et_pb_contact_field.et_pb_section_video {
+    position: relative;
+}
+
+input {
+    font-family: 'Poppins',Helvetica,Arial,Lucida,sans-serif;
+}
+
+/*Boton*/
+
+.et_contact_bottom_container {
+    float: right;
+    text-align: right;
+    margin-top: -1.5%;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+button {
+    color: #ffffff!important;
+    border-width: 10px!important;
+    border-color: rgba(0,0,0,0);
+    border-radius: 40px;
+    letter-spacing: 0px;
+    font-size: 20px;
+    text-transform: uppercase!important;
+    background-color: #fca311!important;
+}
+
+.et_pb_contact_form_1 .et_pb_contact_submit {
+    box-shadow: 0px 20px 30px -10px rgba(134,36,225,0.4);
+}
+.et_pb_contact_submit {
+    font-family: inherit;
+    display: inline-block;
+    margin: 0 0 0 18px;
+    cursor: pointer;
+}
+
+.et_pb_button {
+    transition: letter-spacing 300ms ease 0ms;
+}
+
+.et_pb_button {
+    position: relative;
+}
+
+.et_pb_button {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0.3em 1em;
+    line-height: 1.7em!important;
+    background-color: transparent;
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    -webkit-transition-duration: .2s;
+    transition-duration: .2s;
+    -webkit-transition-property: all!important;
+    transition-property: all!important;
+}
